@@ -1,5 +1,5 @@
 # longreads
-LongReads Hugo Static Site
+Long Reads Hugo Static Site
 
 **Currently, the prototype is being built in another repository.**
 
